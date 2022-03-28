@@ -1,2 +1,3 @@
-# hello-world
-begin with hello-world
+# Hello-World
+一个自学**CS**的萌新***从这里起步***
+目前只会使用 `R` ，正在学习`C`语言
